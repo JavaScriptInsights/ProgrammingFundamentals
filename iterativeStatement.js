@@ -8,7 +8,7 @@
 // while(i<5){
 //     console.log(`Subscribed to JavascriptInsights ${i}`);
 //     i++;
-// }
+// } 
 
 //do-while loop
 // let i = 5;
